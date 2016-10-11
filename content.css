@@ -1,0 +1,53 @@
+.nutritionFacts{
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+.nutritionFacts-title{
+  font-size: 30px;
+  font-weight: bolder;
+  margin: 0;
+  padding: 0;
+}
+
+.nutritionFacts-light{
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  font-weight: 400;
+}
+
+.nutritionFacts-bold{
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.nutritionFacts-subTitle{
+  font-size: 12px;
+}
+
+.nutritionFacts-underline{
+  padding-bottom: 2px;
+  border-bottom: 0.5px solid black;
+  width: 210px;
+}
+
+.nutritionFacts-underlineSubmenu{
+  padding-bottom: 2px;
+  border-bottom: 0.5px solid black;
+  width: 110px;
+}
+
+.nutritionFacts-topline{
+  border-top: 0.5px solid black;
+  width: 210px;
+}
+
+.nutritionFacts-underlineThick{
+  border-bottom: 10px solid black;
+}
+
+.nutritionFacts-underlineSemiThick{
+  border-bottom: 5px solid black;
+}
