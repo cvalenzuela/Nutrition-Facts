@@ -1,4 +1,4 @@
-.nutritionFacts{
+.nutritionFact{
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
@@ -44,10 +44,22 @@
   width: 210px;
 }
 
+.borderbottom{
+  border-bottom:1px solid black;padding-bottom:2px;
+}
+
 .nutritionFacts-underlineThick{
   border-bottom: 10px solid black;
 }
 
 .nutritionFacts-underlineSemiThick{
   border-bottom: 5px solid black;
+}
+
+.width190{
+  width: 190px;
+}
+
+.font19{
+  font-size:9px;
 }

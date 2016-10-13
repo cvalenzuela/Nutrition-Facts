@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "P5 in Browser",
-  "description": "P5 in Browser test",
+  "name": "Nutrition Fact",
+  "description": "A Chrome Extension: get to know the content of the websites you visit",
   "version": "1.0",
 
   "background": {
