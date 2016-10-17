@@ -1,9 +1,21 @@
 .nutritionFact{
   font-family: "Helvetica Neue", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  z-index: 9999;
+  line-height: normal;
+  color:black;
+  font-stretch: normal;
+  font-kerning: normal;
+  text-shadow: none;
+  text-decoration: none;
+  letter-spacing: normal;
+  text-transform: none;
+  max-width: 220px;
 }
 
 .nutritionFacts-title{
-  font-size: 30px;
+  font-size: 30px !important;
   font-weight: bolder;
   margin: 0;
   padding: 0;
